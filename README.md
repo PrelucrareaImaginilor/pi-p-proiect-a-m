@@ -7,3 +7,5 @@
 ![img](Segmentarea_tumorilor_cerebrale.png)
 
 [Segmentarea tumorilor cerebrale prin imagini RMN.pdf](https://github.com/user-attachments/files/17653340/Segmentarea.tumorilor.cerebrale.prin.imagini.RMN.pdf)
+
+O versiune a proiectului: https://colab.research.google.com/drive/1eYmWqMCeEr7xQnWiW-qPTEHS5Gq2pTDW?usp=sharing
