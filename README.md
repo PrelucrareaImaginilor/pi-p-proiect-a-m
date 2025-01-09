@@ -11,3 +11,5 @@
 O versiune a proiectului: https://colab.research.google.com/drive/1eYmWqMCeEr7xQnWiW-qPTEHS5Gq2pTDW?usp=sharing
 
 [Proiect_PI.pptx](https://github.com/PrelucrareaImaginilor/pi-p-proiect-a-m/blob/main/Proiect_PI.pptx)
+
+Noua versiunea a proiectului: https://colab.research.google.com/drive/1eYmWqMCeEr7xQnWiW-qPTEHS5Gq2pTDW?usp=sharing
